@@ -1,3 +1,11 @@
+.. image:: http://unmaintained.tech/badge.svg
+  :target: http://unmaintained.tech
+  :alt: No Maintenance Intended
+
+.. note:: This fork is maintained with the sole purpose of
+  providing a version of pytpm that is compatible with Python 3.7.
+  No further changes or fixes will be made.
+
 Python interface to the TPM C library
 =====================================
 
